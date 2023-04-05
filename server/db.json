@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "69cae58e-cab5-48ca-a404-94c0db653ac8",
+      "title": "React ",
+      "description": "Learn React"
+    },
+    {
+      "id": "c2bb0936-9ff2-431f-981a-012e2805a214",
+      "title": "Java",
+      "description": "Learn Java"
+    }
+  ]
+}
